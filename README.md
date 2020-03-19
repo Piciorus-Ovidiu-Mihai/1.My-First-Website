@@ -1,4 +1,4 @@
-# Websites - HTML&CSS
+# Website - HTML&CSS
 This repository contains one website:
 ```
 My First Website
