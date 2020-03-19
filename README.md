@@ -9,7 +9,7 @@ Some Printscreens!
 
 ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/website1.PNG)<br/><br/><br/>
 
-![alt text]((https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/website1.PNG)<br/><br/><br/>
+![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/website1.PNG)<br/><br/><br/>
 
 ## Getting Started
 For the website you can find .rar version of it for easy downloading. Also, you can view the HTML code, CSS code and JS code in the files if you want.
