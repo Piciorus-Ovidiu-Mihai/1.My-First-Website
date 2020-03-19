@@ -1,11 +1,11 @@
 # Websites - HTML&CSS (and a little bit of JavaScript)
 This repository contains one website:
 ```
-1. My First Website;
+My First Website;
 ```
 
 ## Visual Representation (Some Printscreens)
-1. Snowy
+Rock
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Snowy.png)<br/><br/><br/>
 
 ## Getting Started
