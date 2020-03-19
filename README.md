@@ -16,7 +16,7 @@ For the website you can find .rar version of it for easy downloading. Also, you 
 1) Download .rar version;
 2) Place it anywhere you want to have the website then unzip the archive;
 3) Double click on "Acasa.html" to open the home page of the website;
-4) That's it, you can now explore it and see if.
+4) That's it, you can now explore it.
 ```
 ### Websites Were Built With
 * [HTML](https://www.google.com/search?q=html&oq=html&aqs=chrome.0.69i59l2j69i60l3j69i65.768j0j7&sourceid=chrome&ie=UTF-8)
